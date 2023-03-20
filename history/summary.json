@@ -1,8 +1,8 @@
 [
   {
     "name": "Kiondaga Lodge",
-    "url": "https:/kiondaga.org",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://kiondaga.org",
+    "icon": "https://icons.duckduckgo.com/ip3/kiondaga.org.ico",
     "slug": "kiondaga-lodge",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 825,
-    "timeWeek": 825,
-    "timeMonth": 825,
-    "timeYear": 825,
+    "time": 707,
+    "timeDay": 707,
+    "timeWeek": 707,
+    "timeMonth": 707,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 556,
-    "timeWeek": 556,
-    "timeMonth": 556,
-    "timeYear": 556,
+    "time": 537,
+    "timeDay": 537,
+    "timeWeek": 537,
+    "timeMonth": 537,
+    "timeYear": 537,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.kiondaga.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "78.60%",
-    "uptimeDay": "78.60%",
-    "uptimeWeek": "78.60%",
-    "uptimeMonth": "78.60%",
-    "uptimeYear": "78.60%",
-    "time": 1580,
-    "timeDay": 1580,
-    "timeWeek": 1580,
-    "timeMonth": 1580,
-    "timeYear": 1580,
-    "dailyMinutesDown": {
-      "2023-03-20": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1365,
+    "timeDay": 1365,
+    "timeWeek": 1365,
+    "timeMonth": 1365,
+    "timeYear": 1365,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stats",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1319,
-    "timeDay": 1319,
-    "timeWeek": 1319,
-    "timeMonth": 1319,
-    "timeYear": 1319,
+    "time": 1216,
+    "timeDay": 1216,
+    "timeWeek": 1216,
+    "timeMonth": 1216,
+    "timeYear": 1216,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 524,
-    "timeWeek": 524,
-    "timeMonth": 524,
-    "timeYear": 524,
+    "time": 459,
+    "timeDay": 459,
+    "timeWeek": 459,
+    "timeMonth": 459,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   }
 ]

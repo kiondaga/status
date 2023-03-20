@@ -22,16 +22,23 @@ status-website:
   cname: status.kiondaga.org
   # baseUrl: /your-repo-name
   logoUrl: https://kiondaga.org/wp-content/uploads/2021/05/OA_Trademark_FullColor.png
+  favicon: https://kiondaga.org/wp-content/uploads/2021/05/OA_Trademark_FullColor.png
   name: Status - Kiondaga Lodge
   introTitle: "Kiondaga Lodge - Web Status"
   introMessage: Welcome!
   navbar:
     - title: Kiondaga Lodge Website
-      href: https:/kiondaga.org
+      href: https://kiondaga.org
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/kiondaga/status
+  themeUrl: https://status.kiondaga.org/oa.css
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+assignees:
+  - lukebsa
+  

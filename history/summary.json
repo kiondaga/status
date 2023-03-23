@@ -112,19 +112,19 @@
     "url": "$KIO_LINK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "link-shortener",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 562,
     "timeDay": 562,
     "timeWeek": 562,
     "timeMonth": 562,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2023-03-23": 8,
+      "2023-03-23": 0,
       "2023-03-22": 2
     }
   }

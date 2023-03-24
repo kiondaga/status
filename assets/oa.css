@@ -1,7 +1,4 @@
-@import url("https://use.typekit.net/flv7rgx.css");
 :root {
-  --museoSans: museo-sans, sans-serif;
-  --museoSlab: museo-slab, sans-serif;
   --body-background-color: #E6E7E8;
   --body-text-color: #002626;
   --card-background-color: #36454F;
@@ -26,7 +23,4 @@
   --submit-button-color: #ffffff;
   --graph-opacity: 1;
   --graph-filter: none;
-}
-body {
-  font-family: var(--museoSans);
 }

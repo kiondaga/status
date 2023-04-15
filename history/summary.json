@@ -40,9 +40,9 @@
     "url": "https://dev.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev.kiondaga.org.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.10%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.kiondaga.org.ico",
     "slug": "stats",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1077,
     "timeDay": 581,
     "timeWeek": 938,
     "timeMonth": 1077,
     "timeYear": 1077,
-    "dailyMinutesDown": {
-      "2023-04-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal",

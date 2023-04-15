@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.kiondaga.org.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1317,
-    "timeDay": 482,
-    "timeWeek": 612,
-    "timeMonth": 1317,
-    "timeYear": 1317,
+    "uptime": "99.93%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1327,
+    "timeDay": 1087,
+    "timeWeek": 747,
+    "timeMonth": 1327,
+    "timeYear": 1327,
     "dailyMinutesDown": {
-      "2023-04-15": 0
+      "2023-04-15": 27
     }
   },
   {

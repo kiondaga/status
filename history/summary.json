@@ -60,19 +60,19 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stats.kiondaga.org.ico",
     "slug": "stats",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1091,
-    "timeDay": 548,
-    "timeWeek": 984,
-    "timeMonth": 1091,
-    "timeYear": 1091,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1077,
+    "timeDay": 581,
+    "timeWeek": 938,
+    "timeMonth": 1077,
+    "timeYear": 1077,
     "dailyMinutesDown": {
-      "2023-04-15": 0
+      "2023-04-15": 7
     }
   },
   {

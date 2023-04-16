@@ -4,9 +4,9 @@
     "url": "https://kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/kiondaga.org.ico",
     "slug": "kiondaga-lodge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,26 +15,28 @@
     "timeWeek": 686,
     "timeMonth": 677,
     "timeYear": 677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-16": 0
+    }
   },
   {
     "name": "Trading Post",
     "url": "https://tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "trading-post",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 613,
-    "timeDay": 669,
-    "timeWeek": 606,
-    "timeMonth": 613,
-    "timeYear": 613,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 618,
+    "timeDay": 733,
+    "timeWeek": 630,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2023-04-16": 48
+      "2023-04-16": 102
     }
   },
   {

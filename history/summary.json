@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 554,
-    "timeWeek": 644,
-    "timeMonth": 673,
-    "timeYear": 673,
+    "time": 677,
+    "timeDay": 787,
+    "timeWeek": 686,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "trading-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 335,
-    "timeWeek": 582,
-    "timeMonth": 611,
-    "timeYear": 611,
-    "dailyMinutesDown": {}
+    "time": 613,
+    "timeDay": 669,
+    "timeWeek": 606,
+    "timeMonth": 613,
+    "timeYear": 613,
+    "dailyMinutesDown": {
+      "2023-04-16": 0
+    }
   },
   {
     "name": "Dev",
@@ -46,11 +48,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1305,
-    "timeDay": 1003,
-    "timeWeek": 781,
-    "timeMonth": 1305,
-    "timeYear": 1305,
+    "time": 1294,
+    "timeDay": 1100,
+    "timeWeek": 809,
+    "timeMonth": 1294,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2023-04-15": 27
     }
@@ -61,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.kiondaga.org.ico",
     "slug": "stats",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1067,
-    "timeDay": 808,
-    "timeWeek": 944,
-    "timeMonth": 1067,
-    "timeYear": 1067,
-    "dailyMinutesDown": {
-      "2023-04-15": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1058,
+    "timeDay": 843,
+    "timeWeek": 907,
+    "timeMonth": 1058,
+    "timeYear": 1058,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal",
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 398,
-    "timeWeek": 377,
-    "timeMonth": 388,
-    "timeYear": 388,
+    "time": 384,
+    "timeDay": 252,
+    "timeWeek": 350,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
@@ -105,8 +105,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 262,
-    "timeWeek": 183,
+    "timeDay": 188,
+    "timeWeek": 170,
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {}
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 324,
-    "timeWeek": 502,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "time": 589,
+    "timeDay": 752,
+    "timeWeek": 545,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2023-03-22": 2
     }

@@ -70,18 +70,20 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stats.kiondaga.org.ico",
     "slug": "stats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1063,
-    "timeDay": 1190,
-    "timeWeek": 1118,
-    "timeMonth": 1097,
-    "timeYear": 1063,
-    "dailyMinutesDown": {}
+    "time": 1056,
+    "timeDay": 841,
+    "timeWeek": 1039,
+    "timeMonth": 1077,
+    "timeYear": 1056,
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "Portal",
@@ -124,18 +126,19 @@
     "url": "$KIO_LINK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "link-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 1409,
-    "timeWeek": 761,
+    "timeDay": 1016,
+    "timeWeek": 744,
     "timeMonth": 625,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2023-05-25": 0,
       "2023-03-22": 2
     }
   }

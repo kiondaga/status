@@ -8,6 +8,8 @@ sites:
     url: https://tradingpost.kiondaga.org
   - name: Dev
     url: https://dev.kiondaga.org
+  - name: Dev Trading Post
+    url: https://dev.tradingpost.kiondaga.org
   - name: Stats
     url: https://stats.kiondaga.org
   - name: Portal
@@ -24,7 +26,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "*/1 * * * *"
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "trading-post",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.89%",
     "time": 659,
     "timeDay": 434,
     "timeWeek": 1010,
     "timeMonth": 784,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2023-08-23": 0,
+      "2023-08-23": 11,
       "2023-06-10": 23,
       "2023-06-09": 76,
       "2023-05-31": 17,
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.tradingpost.kiondaga.org.ico",
     "slug": "dev-trading-post",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 669,
     "timeDay": 476,
     "timeWeek": 592,
     "timeMonth": 599,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-08-23": 0
+      "2023-08-23": 11
     }
   },
   {
@@ -120,9 +120,9 @@
     "url": "https://portal.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/portal.kiondaga.org.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,16 +131,18 @@
     "timeWeek": 329,
     "timeMonth": 366,
     "timeYear": 537,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-23": 0
+    }
   },
   {
     "name": "Social",
     "url": "https://social.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/social.kiondaga.org.ico",
     "slug": "social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,7 +151,9 @@
     "timeWeek": 131,
     "timeMonth": 172,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-23": 0
+    }
   },
   {
     "name": "Link Shortener",

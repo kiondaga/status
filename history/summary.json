@@ -6,8 +6,8 @@
     "slug": "kiondaga-lodge",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 634,
@@ -16,7 +16,6 @@
     "timeMonth": 574,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-08-29": 1,
       "2023-05-31": 17,
       "2023-04-17": 77,
       "2023-04-16": 62
@@ -161,9 +160,9 @@
     "url": "$KIO_LINK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "link-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -173,6 +172,7 @@
     "timeMonth": 458,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2023-08-29": 0,
       "2023-05-31": 16,
       "2023-03-22": 2
     }

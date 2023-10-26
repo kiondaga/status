@@ -6,7 +6,7 @@ sites:
     url: https://kiondaga.org
   - name: Trading Post
     url: https://tradingpost.kiondaga.org
-  - name: Dev
+  - name: Deve
     url: https://dev.kiondaga.org
   - name: Dev Trading Post
     url: https://dev.tradingpost.kiondaga.org

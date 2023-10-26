@@ -2,22 +2,25 @@ owner: kiondaga # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: Kiondaga Lodge
+  - name: Website - Production
     url: https://kiondaga.org
-  - name: Trading Post
-    url: https://tradingpost.kiondaga.org
-  - name: Deve
+  - name: Website - Development
     url: https://dev.kiondaga.org
-  - name: Dev Trading Post
+  - name: Website - Staging
+    url: https://stage.kiondaga.org
+  - name: Trading Post - Production
+    url: https://tradingpost.kiondaga.org
+  - name: Trading Post - Development
     url: https://dev.tradingpost.kiondaga.org
-  - name: Stats
+  - name: Statistics
     url: https://stats.kiondaga.org
-  - name: Portal
+  - name: Committee Portal
     url: https://portal.kiondaga.org
-  - name: Social
+  - name: Social Links
     url: https://social.kiondaga.org
-  - name: Link Shortener
+  - name: URL Shortener
     url: $KIO_LINK
+    icon: https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png
     
 workflowSchedule:
   graphs: "0 0 * * *"

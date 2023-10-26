@@ -48,8 +48,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/kiondaga/status
-  themeUrl: /oa.css
+  # themeUrl: /oa.css
   robotsText: "User-agent: * \n Disallow: /"
+  css: body{font-family:'Museo Sans',sans-serif}
+  links:
+    - rel: stylesheet
+      href: https://use.typekit.net/uvm0mix.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

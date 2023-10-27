@@ -48,7 +48,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/kiondaga/status
-  themeUrl: https://status.kiondaga.org/oa.css
+  themeUrl: https://kiondaga.org/oastatus.css
   robotsText: "User-agent: * \n Disallow: /"
   css: body{font-family:'Museo Sans',sans-serif} h1{font-family:'Museo Slab',sans-serif}
   links:

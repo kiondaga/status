@@ -55,11 +55,11 @@ status-website:
     - rel: stylesheet
       href: https://use.typekit.net/uvm0mix.css
 
-i18n:
-  footer: [Kiondaga Lodge](https://kiondaga.org), Buffalo Trace Council | [Site Info & Policies](https://kiondaga.org/site-information-policies/)
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 assignees:
   - lukebsa
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)

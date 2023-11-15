@@ -25,11 +25,11 @@ sites:
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
+  staticSite: "0 1,13 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "0 6,18 * * *"
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -60,6 +60,10 @@ status-website:
 
 assignees:
   - lukebsa
+
+commitMessages:
+  commitAuthorName: "Kiondaga Lodge Bot"
+  commitAuthorEmail: "git@kiondaga.org"
 
 i18n:
   footer: Website Status | [Kiondaga Lodge](https://kiondaga.org) - Buffalo Trace Council | [Site Info & Policies](https://kiondaga.org/site-information-policies/)

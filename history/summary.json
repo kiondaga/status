@@ -159,19 +159,19 @@
     "url": "$KIO_LINK",
     "icon": "https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 362,
-    "timeWeek": 294,
-    "timeMonth": 478,
-    "timeYear": 441,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 437,
+    "timeDay": 300,
+    "timeWeek": 288,
+    "timeMonth": 472,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-11-27": 0
+      "2023-11-27": 10
     }
   }
 ]

@@ -4,19 +4,19 @@
     "url": "https://kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/kiondaga.org.ico",
     "slug": "website-production",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 404,
     "timeDay": 427,
     "timeWeek": 387,
     "timeMonth": 396,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-12-03": 9,
+      "2023-12-03": 2,
       "2023-10-29": 18
     }
   },
@@ -27,9 +27,9 @@
     "slug": "website-development",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.78%",
     "time": 615,
     "timeDay": 314,
@@ -37,7 +37,7 @@
     "timeMonth": 877,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2023-12-03": 2,
+      "2023-12-03": 7,
       "2023-06-10": 23,
       "2023-06-09": 76,
       "2023-05-31": 16
@@ -69,18 +69,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "trading-post-production",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 364,
     "timeDay": 348,
     "timeWeek": 335,
     "timeMonth": 457,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2023-12-03": 9,
       "2023-05-31": 17
     }
   },
@@ -90,19 +89,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-tradingpost.kiondaga.org.ico",
     "slug": "trading-post-development",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 504,
     "timeDay": 287,
     "timeWeek": 345,
     "timeMonth": 452,
     "timeYear": 504,
-    "dailyMinutesDown": {
-      "2023-12-03": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Statistics",
@@ -169,18 +166,16 @@
     "icon": "https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 302,
     "timeWeek": 293,
     "timeMonth": 336,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2023-12-03": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]

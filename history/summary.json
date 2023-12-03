@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.kiondaga.org.ico",
     "slug": "website-development",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 615,
     "timeDay": 314,
     "timeWeek": 608,
@@ -104,10 +104,10 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stats.kiondaga.org.ico",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 684,
@@ -116,6 +116,7 @@
     "timeMonth": 747,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2023-12-03": 2,
       "2023-10-29": 32,
       "2023-05-31": 16
     }
@@ -163,9 +164,9 @@
     "url": "$KIO_LINK",
     "icon": "https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,6 +175,8 @@
     "timeWeek": 292,
     "timeMonth": 338,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   }
 ]

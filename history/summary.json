@@ -47,7 +47,7 @@
     "url": "https://stage.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "website-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "97.67%",
     "uptimeWeek": "99.67%",
@@ -59,6 +59,7 @@
     "timeMonth": 397,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2023-12-04": 0,
       "2023-12-03": 33,
       "2023-10-29": 17
     }
@@ -169,18 +170,17 @@
     "icon": "https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 386,
     "timeDay": 315,
     "timeWeek": 308,
     "timeMonth": 326,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-12-03": 31
     }
   }

@@ -48,18 +48,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "website-staging",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "99.63%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 357,
     "timeDay": 406,
     "timeWeek": 422,
     "timeMonth": 397,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2023-12-04": 4,
       "2023-12-03": 33,
       "2023-10-29": 17
     }
@@ -92,8 +91,8 @@
     "slug": "trading-post-development",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
@@ -101,9 +100,7 @@
     "timeWeek": 290,
     "timeMonth": 386,
     "timeYear": 445,
-    "dailyMinutesDown": {
-      "2023-12-04": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Statistics",

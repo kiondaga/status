@@ -49,9 +49,9 @@
     "url": "https://stage.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "website-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.49%",
+    "uptimeDay": "96.48%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.84%",
@@ -93,18 +93,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-tradingpost.kiondaga.org.ico",
     "slug": "trading-post-development",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 430,
     "timeDay": 277,
     "timeWeek": 311,
     "timeMonth": 366,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-12-08": 26
+      "2023-12-08": 19
     }
   },
   {

@@ -49,19 +49,19 @@
     "url": "https://stage.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "website-staging",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.83%",
     "time": 359,
     "timeDay": 374,
     "timeWeek": 405,
     "timeMonth": 393,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2023-12-08": 50,
+      "2023-12-08": 53,
       "2023-12-03": 33,
       "2023-10-29": 17
     }
@@ -73,9 +73,9 @@
     "slug": "trading-post-production",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.79%",
     "time": 354,
     "timeDay": 346,
@@ -83,7 +83,6 @@
     "timeMonth": 341,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-12-08": 4,
       "2023-12-03": 111,
       "2023-05-31": 17
     }
@@ -93,11 +92,11 @@
     "url": "https://dev-tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev-tradingpost.kiondaga.org.ico",
     "slug": "trading-post-development",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 432,
     "timeDay": 278,
@@ -105,7 +104,7 @@
     "timeMonth": 368,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2023-12-08": 19
+      "2023-12-08": 21
     }
   },
   {
@@ -174,9 +173,9 @@
     "url": "$KIO_LINK",
     "icon": "https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "94.46%",
+    "uptimeDay": "94.48%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.82%",
@@ -186,7 +185,7 @@
     "timeMonth": 314,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-12-08": 80,
+      "2023-12-08": 79,
       "2023-12-03": 31
     }
   }

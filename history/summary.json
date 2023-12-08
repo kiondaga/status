@@ -27,9 +27,9 @@
     "slug": "website-development",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "96.35%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.67%",
     "time": 523,
     "timeDay": 304,
@@ -37,7 +37,7 @@
     "timeMonth": 635,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2023-12-08": 53,
+      "2023-12-08": 49,
       "2023-12-03": 36,
       "2023-06-10": 23,
       "2023-06-09": 76,
@@ -71,9 +71,9 @@
     "url": "https://tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/tradingpost.kiondaga.org.ico",
     "slug": "trading-post-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.79%",
@@ -83,6 +83,7 @@
     "timeMonth": 341,
     "timeYear": 354,
     "dailyMinutesDown": {
+      "2023-12-08": 0,
       "2023-12-03": 111,
       "2023-05-31": 17
     }

@@ -25,7 +25,7 @@
     "url": "https://dev.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev.kiondaga.org.ico",
     "slug": "website-development",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "96.59%",
     "uptimeWeek": "99.16%",
@@ -174,18 +174,18 @@
     "icon": "https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.82%",
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.82%",
     "time": 374,
     "timeDay": 254,
     "timeWeek": 306,
     "timeMonth": 313,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2023-12-08": 83,
+      "2023-12-08": 79,
       "2023-12-03": 31
     }
   }

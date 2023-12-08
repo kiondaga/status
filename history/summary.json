@@ -50,18 +50,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.kiondaga.org.ico",
     "slug": "website-staging",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.84%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.84%",
     "time": 358,
     "timeDay": 310,
     "timeWeek": 400,
     "timeMonth": 390,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2023-12-08": 54,
+      "2023-12-08": 50,
       "2023-12-03": 33,
       "2023-10-29": 17
     }
@@ -92,19 +92,19 @@
     "url": "https://dev-tradingpost.kiondaga.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev-tradingpost.kiondaga.org.ico",
     "slug": "trading-post-development",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 432,
-    "timeDay": 278,
-    "timeWeek": 312,
-    "timeMonth": 368,
-    "timeYear": 432,
+    "time": 430,
+    "timeDay": 277,
+    "timeWeek": 311,
+    "timeMonth": 366,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-12-08": 23
+      "2023-12-08": 26
     }
   },
   {
@@ -175,9 +175,9 @@
     "slug": "url-shortener",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "94.35%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.82%",
     "time": 374,
     "timeDay": 236,
@@ -185,7 +185,7 @@
     "timeMonth": 313,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2023-12-08": 81,
+      "2023-12-08": 79,
       "2023-12-03": 31
     }
   }

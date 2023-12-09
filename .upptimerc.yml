@@ -36,8 +36,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kiondaga.org
   # baseUrl: /your-repo-name
-  logoUrl: https://kiondaga.org/wp-content/uploads/2021/05/OA_Trademark_FullColor.png
-  favicon: https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png
+  logoUrl: https://content.kiondaga.org/brand/Trademark/OA_Trademark_FullColor.png
+  favicon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   name: Status - Kiondaga Lodge
   introTitle: "Kiondaga Lodge - Website Status"
   introMessage: Welcome to the status page for Kiondaga Lodge. This site tracks uptime and issues for Kiondaga Lodge websites. Kiondaga Lodge has proudly served Buffalo Trace Council and the Order of the Arrow since 1949. Read more about the lodge on [our website](https://kiondaga.org/about/).
@@ -48,7 +48,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/kiondaga/status
-  themeUrl: https://kiondaga.org/oastatus.css
+  themeUrl: https://content.kiondaga.org/css/oastatus.css
   robotsText: "User-agent: * \n Disallow: /"
   css: body{font-family:museo-sans,sans-serif} h1{font-family:museo-slab,sans-serif} nav{color:#E6E7E8}
   links:

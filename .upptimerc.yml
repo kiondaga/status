@@ -20,7 +20,7 @@ sites:
     url: https://social.kiondaga.org
   - name: URL Shortener
     url: $KIO_LINK
-    icon: https://kiondaga.org/wp-content/uploads/2021/05/cropped-OA_Trademark-10-180x180.png
+    icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
     
 workflowSchedule:
   graphs: "0 0 * * *"

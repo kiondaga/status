@@ -18,6 +18,8 @@ sites:
     url: https://portal.kiondaga.org
   - name: Social Links
     url: https://social.kiondaga.org
+  - name: Static Content
+    url: https://content.kiondaga.org/ping/
   - name: URL Shortener
     url: $KIO_LINK
     icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png

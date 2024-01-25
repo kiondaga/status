@@ -5,13 +5,13 @@ sites:
   - name: Website - Production
     url: https://kiondaga.org
   - name: Website - Development
-    url: https://dev.kiondaga.org
+    url: https://dev.kiondaga.org/.well-known/ping.html
   - name: Website - Staging
     url: https://stage.kiondaga.org
   - name: Trading Post - Production
     url: https://tradingpost.kiondaga.org
   - name: Trading Post - Development
-    url: https://dev-tradingpost.kiondaga.org
+    url: https://dev-tradingpost.kiondaga.org/.well-known/ping.html
   - name: Statistics
     url: https://stats.kiondaga.org
   - name: Committee Portal

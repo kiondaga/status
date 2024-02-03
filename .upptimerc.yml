@@ -4,21 +4,28 @@ repo: status # The name of this repository
 sites:
   - name: Website - Production
     url: https://kiondaga.org
+    icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Website - Development
     url: https://dev.kiondaga.org/.well-known/ping.html
-  - name: Website - Staging
-    url: https://stage.kiondaga.org
+    icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Trading Post - Production
     url: https://tradingpost.kiondaga.org
+    icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Trading Post - Development
     url: https://dev-tradingpost.kiondaga.org/.well-known/ping.html
+    icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Statistics
     url: https://stats.kiondaga.org
+    icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Committee Portal
     url: https://portal.kiondaga.org
+    icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Social Links
     url: https://social.kiondaga.org
+    icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Static Content
+    url: https://static.kiondaga.org/ping/
+  - name: Static Content 2
     url: https://content.kiondaga.org/ping/
   - name: URL Shortener
     url: $KIO_LINK

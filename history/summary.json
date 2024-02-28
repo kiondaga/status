@@ -60,7 +60,7 @@
     "time": 529,
     "timeDay": 124,
     "timeWeek": 229,
-    "timeMonth": 292,
+    "timeMonth": 273,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2024-01-16": 29,
@@ -119,9 +119,9 @@
     "url": "https://portal.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "committee-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,6 +131,7 @@
     "timeMonth": 320,
     "timeYear": 476,
     "dailyMinutesDown": {
+      "2024-02-28": 0,
       "2023-11-10": 1
     }
   },

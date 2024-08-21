@@ -1,7 +1,7 @@
 url: $KIO_LINK
-status: down
-code: 503
-responseTime: 287
-lastUpdated: 2024-08-21T19:10:45.402Z
+status: up
+code: 200
+responseTime: 307
+lastUpdated: 2024-08-21T19:12:49.153Z
 startTime: 2023-10-26T18:31:53.071Z
 generator: Upptime <https://github.com/upptime/upptime>

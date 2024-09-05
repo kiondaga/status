@@ -116,9 +116,9 @@
     "slug": "committee-portal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 517,
     "timeDay": 341,
@@ -126,7 +126,6 @@
     "timeMonth": 360,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-09-05": 4,
       "2023-11-10": 1
     }
   },

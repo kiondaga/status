@@ -9,7 +9,7 @@ sites:
     url: https://dev.kiondaga.org/.well-known/ping.html
     icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Trading Post - Production
-    url: https://tradingpost.kiondaga.org
+    url: https://prod-tradingpost.kiondaga.org/.well-known/ping.html
     icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
   - name: Trading Post - Development
     url: https://dev-tradingpost.kiondaga.org/.well-known/ping.html

@@ -24,18 +24,16 @@
     "slug": "website-development",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
     "timeDay": 250,
     "timeWeek": 266,
     "timeMonth": 271,
     "timeYear": 274,
-    "dailyMinutesDown": {
-      "2025-04-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trading Post - Production",
@@ -44,18 +42,16 @@
     "slug": "trading-post-production",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
     "timeDay": 302,
     "timeWeek": 302,
     "timeMonth": 282,
     "timeYear": 296,
-    "dailyMinutesDown": {
-      "2025-04-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trading Post - Development",
@@ -172,17 +168,15 @@
     "slug": "url-shortener",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
     "timeDay": 233,
     "timeWeek": 226,
     "timeMonth": 248,
     "timeYear": 244,
-    "dailyMinutesDown": {
-      "2025-04-29": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]

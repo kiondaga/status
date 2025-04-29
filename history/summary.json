@@ -6,18 +6,16 @@
     "slug": "website-production",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 323,
     "timeWeek": 333,
     "timeMonth": 541,
     "timeYear": 353,
-    "dailyMinutesDown": {
-      "2025-04-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website - Development",
@@ -168,19 +166,19 @@
     "url": "https://kionda.ga/ping/",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 201,
-    "timeWeek": 216,
-    "timeMonth": 248,
+    "timeDay": 185,
+    "timeWeek": 209,
+    "timeMonth": 245,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-04-29": 5
+      "2025-04-29": 10
     }
   }
 ]

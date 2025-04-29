@@ -42,19 +42,16 @@
     "slug": "trading-post-production",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
     "timeDay": 307,
     "timeWeek": 303,
     "timeMonth": 281,
     "timeYear": 296,
-    "dailyMinutesDown": {
-      "2025-04-29": 1,
-      "2025-04-28": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trading Post - Development",
@@ -133,18 +130,20 @@
     "url": "https://static.kiondaga.org/ping/",
     "icon": "https://content.kiondaga.org/favicon.ico",
     "slug": "static-content",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 261,
-    "timeWeek": 208,
-    "timeMonth": 157,
-    "timeYear": 138,
-    "dailyMinutesDown": {}
+    "timeDay": 163,
+    "timeWeek": 190,
+    "timeMonth": 154,
+    "timeYear": 137,
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   },
   {
     "name": "Static Content 2",

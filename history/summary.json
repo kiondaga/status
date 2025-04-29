@@ -4,18 +4,20 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 361,
-    "timeDay": 369,
-    "timeWeek": 343,
-    "timeMonth": 557,
+    "timeDay": 304,
+    "timeWeek": 330,
+    "timeMonth": 547,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   },
   {
     "name": "Website - Development",
@@ -130,19 +132,19 @@
     "url": "https://static.kiondaga.org/ping/",
     "icon": "https://content.kiondaga.org/favicon.ico",
     "slug": "static-content",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 163,
-    "timeWeek": 190,
-    "timeMonth": 154,
-    "timeYear": 137,
+    "time": 132,
+    "timeDay": 187,
+    "timeWeek": 195,
+    "timeMonth": 156,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 5
     }
   },
   {
@@ -168,17 +170,19 @@
     "url": "https://kionda.ga/ping/",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 238,
-    "timeWeek": 223,
-    "timeMonth": 251,
+    "timeDay": 201,
+    "timeWeek": 216,
+    "timeMonth": 248,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-29": 0
+    }
   }
 ]

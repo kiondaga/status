@@ -1,7 +1,7 @@
 url: https://dev.kiondaga.org/.well-known/ping.html
-status: up
-code: 200
-responseTime: 329
-lastUpdated: 2025-04-28T23:19:50.158Z
+status: down
+code: 500
+responseTime: 90
+lastUpdated: 2025-04-29T00:25:59.513Z
 startTime: 2023-10-26T18:31:46.790Z
 generator: Upptime <https://github.com/upptime/upptime>

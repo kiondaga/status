@@ -22,19 +22,19 @@
     "url": "https://dev.kiondaga.org/.well-known/ping.html",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-development",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 210,
-    "timeWeek": 258,
-    "timeMonth": 269,
+    "timeDay": 250,
+    "timeWeek": 266,
+    "timeMonth": 271,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 5
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://prod-tradingpost.kiondaga.org/.well-known/ping.html",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "trading-post-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 293,
-    "timeWeek": 298,
-    "timeMonth": 280,
+    "timeDay": 302,
+    "timeWeek": 302,
+    "timeMonth": 282,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 5
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://kionda.ga/ping/",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 184,
-    "timeWeek": 206,
-    "timeMonth": 243,
+    "timeDay": 233,
+    "timeWeek": 226,
+    "timeMonth": 248,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 5
     }
   }
 ]

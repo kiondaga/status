@@ -40,19 +40,20 @@
     "url": "https://prod-tradingpost.kiondaga.org/.well-known/ping.html",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "trading-post-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 293,
-    "timeWeek": 299,
-    "timeMonth": 280,
+    "timeDay": 307,
+    "timeWeek": 303,
+    "timeMonth": 281,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-29": 1,
+      "2025-04-28": 4
     }
   },
   {

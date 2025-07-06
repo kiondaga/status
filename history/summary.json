@@ -94,18 +94,20 @@
     "url": "https://portal.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "committee-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 904,
-    "timeDay": 8097,
-    "timeWeek": 5105,
-    "timeMonth": 2379,
-    "timeYear": 1017,
-    "dailyMinutesDown": {}
+    "time": 944,
+    "timeDay": 11029,
+    "timeWeek": 6332,
+    "timeMonth": 2838,
+    "timeYear": 1065,
+    "dailyMinutesDown": {
+      "2025-07-06": 0
+    }
   },
   {
     "name": "Social Links",

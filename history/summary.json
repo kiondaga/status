@@ -4,19 +4,19 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 10107,
-    "timeWeek": 2818,
-    "timeMonth": 984,
+    "timeDay": 6872,
+    "timeWeek": 2550,
+    "timeMonth": 966,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2025-08-15": 2
+      "2025-08-15": 4
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dev.kiondaga.org/.well-known/ping.html",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-development",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 9860,
-    "timeWeek": 2696,
-    "timeMonth": 892,
+    "timeDay": 6686,
+    "timeWeek": 2434,
+    "timeMonth": 875,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-08-15": 1
+      "2025-08-15": 3
     }
   },
   {

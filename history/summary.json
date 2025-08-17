@@ -4,18 +4,20 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
-    "timeDay": 362,
-    "timeWeek": 2556,
-    "timeMonth": 969,
+    "timeDay": 357,
+    "timeWeek": 2336,
+    "timeMonth": 951,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-17": 0
+    }
   },
   {
     "name": "Website - Development",
@@ -76,18 +78,20 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 722,
-    "timeDay": 755,
-    "timeWeek": 664,
-    "timeMonth": 709,
-    "timeYear": 729,
-    "dailyMinutesDown": {}
+    "timeDay": 500,
+    "timeWeek": 612,
+    "timeMonth": 695,
+    "timeYear": 728,
+    "dailyMinutesDown": {
+      "2025-08-17": 0
+    }
   },
   {
     "name": "Committee Portal",
@@ -166,18 +170,19 @@
     "url": "https://kionda.ga/ping/",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 244,
-    "timeDay": 148,
-    "timeWeek": 264,
-    "timeMonth": 245,
+    "timeDay": 209,
+    "timeWeek": 265,
+    "timeMonth": 246,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-06-05": 951,
       "2025-06-04": 939
     }

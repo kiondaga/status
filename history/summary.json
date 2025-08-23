@@ -4,19 +4,19 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 410,
-    "timeDay": 1810,
-    "timeWeek": 880,
-    "timeMonth": 1050,
+    "timeDay": 1504,
+    "timeWeek": 840,
+    "timeMonth": 1032,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-08-23": 0
+      "2025-08-23": 6
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 393,
-    "timeWeek": 616,
-    "timeMonth": 675,
-    "timeYear": 710,
+    "time": 726,
+    "timeDay": 903,
+    "timeWeek": 771,
+    "timeMonth": 733,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-08-23": 0
+      "2025-08-23": 6
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://static.kiondaga.org/ping/",
     "icon": "https://content.kiondaga.org/favicon.ico",
     "slug": "static-content",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 203,
-    "timeWeek": 285,
-    "timeMonth": 183,
-    "timeYear": 148,
+    "timeDay": 156,
+    "timeWeek": 260,
+    "timeMonth": 179,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-08-23": 0
+      "2025-08-23": 6
     }
   },
   {

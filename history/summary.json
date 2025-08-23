@@ -6,7 +6,7 @@
     "slug": "website-production",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 486,
     "timeMonth": 947,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   },
   {
     "name": "Website - Development",
@@ -78,9 +80,9 @@
     "slug": "statistics",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 723,
     "timeDay": 416,
@@ -88,7 +90,7 @@
     "timeMonth": 692,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2025-08-23": 0
+      "2025-08-23": 5
     }
   },
   {

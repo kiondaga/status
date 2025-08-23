@@ -14,7 +14,7 @@
     "timeDay": 267,
     "timeWeek": 486,
     "timeMonth": 947,
-    "timeYear": 420,
+    "timeYear": 421,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 217,
     "timeWeek": 382,
     "timeMonth": 890,
-    "timeYear": 335,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 66,
     "timeWeek": 213,
     "timeMonth": 254,
-    "timeYear": 264,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   },
   {
@@ -76,18 +76,20 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 636,
-    "timeWeek": 698,
-    "timeMonth": 706,
-    "timeYear": 713,
-    "dailyMinutesDown": {}
+    "time": 723,
+    "timeDay": 416,
+    "timeWeek": 657,
+    "timeMonth": 692,
+    "timeYear": 712,
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   },
   {
     "name": "Committee Portal",
@@ -104,7 +106,7 @@
     "timeDay": 496,
     "timeWeek": 433,
     "timeMonth": 453,
-    "timeYear": 1166,
+    "timeYear": 1168,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +160,7 @@
     "timeDay": 277,
     "timeWeek": 213,
     "timeMonth": 208,
-    "timeYear": 176,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +178,7 @@
     "timeDay": 80,
     "timeWeek": 280,
     "timeMonth": 256,
-    "timeYear": 243,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2025-06-05": 951,
       "2025-06-04": 939

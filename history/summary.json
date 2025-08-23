@@ -6,17 +6,17 @@
     "slug": "website-production",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 315,
-    "timeWeek": 476,
-    "timeMonth": 932,
-    "timeYear": 420,
+    "time": 410,
+    "timeDay": 1810,
+    "timeWeek": 880,
+    "timeMonth": 1050,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-08-23": 5
+      "2025-08-23": 0
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 432,
-    "timeWeek": 642,
-    "timeMonth": 686,
-    "timeYear": 711,
+    "time": 721,
+    "timeDay": 393,
+    "timeWeek": 616,
+    "timeMonth": 675,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2025-08-23": 10
+      "2025-08-23": 0
     }
   },
   {
@@ -134,18 +134,20 @@
     "url": "https://static.kiondaga.org/ping/",
     "icon": "https://content.kiondaga.org/favicon.ico",
     "slug": "static-content",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 212,
-    "timeWeek": 298,
+    "timeDay": 203,
+    "timeWeek": 285,
     "timeMonth": 183,
-    "timeYear": 147,
-    "dailyMinutesDown": {}
+    "timeYear": 148,
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   },
   {
     "name": "Static Content 2",

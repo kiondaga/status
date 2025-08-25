@@ -154,19 +154,19 @@
     "url": "https://content.kiondaga.org/ping/",
     "icon": "https://content.kiondaga.org/favicon.ico",
     "slug": "static-content-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 230,
-    "timeWeek": 213,
-    "timeMonth": 206,
+    "timeDay": 245,
+    "timeWeek": 219,
+    "timeMonth": 208,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 5
     }
   },
   {

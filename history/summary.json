@@ -42,18 +42,20 @@
     "url": "https://prod-tradingpost.kiondaga.org/.well-known/ping.html",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "trading-post-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 229,
-    "timeWeek": 252,
-    "timeMonth": 295,
-    "timeYear": 292,
-    "dailyMinutesDown": {}
+    "timeDay": 401,
+    "timeWeek": 292,
+    "timeMonth": 304,
+    "timeYear": 293,
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   },
   {
     "name": "Trading Post - Development",

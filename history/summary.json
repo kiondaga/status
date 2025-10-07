@@ -26,18 +26,16 @@
     "slug": "website-development",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
     "timeDay": 291,
     "timeWeek": 292,
     "timeMonth": 292,
     "timeYear": 343,
-    "dailyMinutesDown": {
-      "2025-10-07": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trading Post - Production",
@@ -82,8 +80,8 @@
     "slug": "statistics",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 964,
@@ -92,7 +90,6 @@
     "timeMonth": 3220,
     "timeYear": 1022,
     "dailyMinutesDown": {
-      "2025-10-07": 1,
       "2025-08-23": 6
     }
   },
@@ -175,9 +172,9 @@
     "url": "https://kionda.ga/ping/",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
@@ -187,6 +184,7 @@
     "timeMonth": 256,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2025-10-07": 0,
       "2025-06-05": 951,
       "2025-06-04": 939
     }

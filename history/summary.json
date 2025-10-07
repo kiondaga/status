@@ -4,18 +4,19 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
+    "time": 457,
     "timeDay": 370,
     "timeWeek": 387,
     "timeMonth": 371,
     "timeYear": 490,
     "dailyMinutesDown": {
+      "2025-10-07": 1,
       "2025-08-23": 6
     }
   },

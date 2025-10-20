@@ -1,7 +1,7 @@
 url: https://portal.kiondaga.org
-status: up
-code: 200
-responseTime: 390
-lastUpdated: 2025-10-19T23:18:54.464Z
+status: down
+code: 502
+responseTime: 26534
+lastUpdated: 2025-10-20T05:26:53.516Z
 startTime: 2023-10-26T18:31:51.696Z
 generator: Upptime <https://github.com/upptime/upptime>

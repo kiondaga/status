@@ -1,7 +1,7 @@
 url: https://prod-tradingpost.kiondaga.org/.well-known/ping.html
-status: down
-code: 500
-responseTime: 195
-lastUpdated: 2025-11-18T11:55:19.991Z
+status: up
+code: 200
+responseTime: 150
+lastUpdated: 2025-11-18T12:10:20.270Z
 startTime: 2023-10-26T18:31:48.584Z
 generator: Upptime <https://github.com/upptime/upptime>

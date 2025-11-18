@@ -4,19 +4,19 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
     "time": 432,
-    "timeDay": 233,
-    "timeWeek": 283,
-    "timeMonth": 304,
-    "timeYear": 477,
+    "timeDay": 237,
+    "timeWeek": 282,
+    "timeMonth": 303,
+    "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-11-18": 31,
+      "2025-11-18": 81,
       "2025-08-23": 6
     }
   },
@@ -27,17 +27,17 @@
     "slug": "website-development",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
     "time": 324,
     "timeDay": 246,
     "timeWeek": 263,
     "timeMonth": 259,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2025-11-18": 41
+      "2025-11-18": 91
     }
   },
   {
@@ -47,17 +47,17 @@
     "slug": "trading-post-production",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 294,
     "timeDay": 197,
     "timeWeek": 213,
     "timeMonth": 239,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-11-18": 15
+      "2025-11-18": 65
     }
   },
   {
@@ -67,17 +67,17 @@
     "slug": "trading-post-development",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 265,
     "timeDay": 189,
     "timeWeek": 235,
     "timeMonth": 228,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-11-18": 20
+      "2025-11-18": 70
     }
   },
   {
@@ -86,18 +86,18 @@
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 1201,
     "timeDay": 1690,
     "timeWeek": 2242,
     "timeMonth": 2588,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2025-11-18": 15,
+      "2025-11-18": 65,
       "2025-08-23": 6
     }
   },
@@ -143,10 +143,10 @@
     "icon": "https://content.kiondaga.org/favicon.ico",
     "slug": "static-content",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 149,
     "timeDay": 146,
@@ -154,7 +154,7 @@
     "timeMonth": 134,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-11-18": 20,
+      "2025-11-18": 70,
       "2025-08-23": 6
     }
   },
@@ -183,9 +183,9 @@
     "slug": "url-shortener",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.63%",
     "time": 251,
     "timeDay": 243,
@@ -193,7 +193,7 @@
     "timeMonth": 323,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-11-18": 30,
+      "2025-11-18": 80,
       "2025-06-05": 951,
       "2025-06-04": 939
     }

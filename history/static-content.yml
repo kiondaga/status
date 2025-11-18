@@ -1,7 +1,7 @@
 url: https://static.kiondaga.org/ping/
-status: down
-code: 500
-responseTime: 194
-lastUpdated: 2025-11-18T11:55:28.122Z
+status: up
+code: 200
+responseTime: 130
+lastUpdated: 2025-11-18T12:10:31.049Z
 startTime: 2023-12-24T04:47:25.094Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://stats.kiondaga.org
-status: up
-code: 200
-responseTime: 2833
-lastUpdated: 2026-01-12T23:19:42.266Z
+status: down
+code: 403
+responseTime: 288
+lastUpdated: 2026-01-13T01:35:58.531Z
 startTime: 2023-10-26T18:31:50.700Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -6,9 +6,9 @@
     "slug": "website-production",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 453,
     "timeDay": 329,
@@ -16,7 +16,6 @@
     "timeMonth": 343,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2026-01-28": 5,
       "2025-11-18": 81,
       "2025-08-23": 6
     }
@@ -29,16 +28,16 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.91%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "99.64%",
+    "uptimeWeek": "82.57%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "99.63%",
     "time": 326,
     "timeDay": 152,
     "timeWeek": 226,
     "timeMonth": 277,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2026-01-28": 41,
+      "2026-01-28": 75,
       "2026-01-27": 1440,
       "2026-01-26": 242,
       "2025-11-18": 176
@@ -52,8 +51,8 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.93%",
-    "uptimeMonth": "96.07%",
+    "uptimeWeek": "82.59%",
+    "uptimeMonth": "95.99%",
     "uptimeYear": "99.64%",
     "time": 292,
     "timeDay": 277,
@@ -61,7 +60,7 @@
     "timeMonth": 293,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2026-01-28": 41,
+      "2026-01-28": 75,
       "2026-01-27": 1440,
       "2026-01-26": 240,
       "2025-11-18": 145
@@ -94,9 +93,9 @@
     "slug": "statistics",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1546,
     "timeDay": 1950,
@@ -104,7 +103,6 @@
     "timeMonth": 2371,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2026-01-28": 5,
       "2025-11-18": 145,
       "2025-08-23": 6
     }
@@ -152,7 +150,7 @@
     "slug": "static-content",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "17.37%",
+    "uptimeDay": "19.76%",
     "uptimeWeek": "85.43%",
     "uptimeMonth": "96.65%",
     "uptimeYear": "99.70%",
@@ -193,9 +191,9 @@
     "slug": "url-shortener",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 296,
     "timeDay": 2202,
@@ -203,7 +201,6 @@
     "timeMonth": 631,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2026-01-28": 5,
       "2025-11-18": 120,
       "2025-06-05": 951,
       "2025-06-04": 939

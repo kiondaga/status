@@ -30,7 +30,7 @@ sites:
     url: https://content.kiondaga.org/ping/
     icon: https://content.kiondaga.org/favicon.ico
   - name: URL Shortener
-    url: https://kionda.ga/ping/
+    url: https://kionda.ga/ping
     icon: https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png
     
 workflowSchedule:

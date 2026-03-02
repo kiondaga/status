@@ -6,9 +6,9 @@
     "slug": "website-production",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 452,
     "timeDay": 221,
@@ -16,7 +16,6 @@
     "timeMonth": 470,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2026-03-02": 5,
       "2025-11-18": 81,
       "2025-08-23": 6
     }
@@ -29,8 +28,8 @@
     "status": "up",
     "uptime": "96.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.43%",
-    "uptimeMonth": "25.77%",
+    "uptimeWeek": "77.44%",
+    "uptimeMonth": "25.78%",
     "uptimeYear": "92.07%",
     "time": 330,
     "timeDay": 146,
@@ -88,7 +87,7 @@
     "timeMonth": 223,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2026-03-02": 86,
+      "2026-03-02": 87,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -154,9 +153,9 @@
     "slug": "statistics",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1704,
     "timeDay": 1747,
@@ -164,7 +163,6 @@
     "timeMonth": 2370,
     "timeYear": 1976,
     "dailyMinutesDown": {
-      "2026-03-02": 5,
       "2025-11-18": 145,
       "2025-08-23": 6
     }
@@ -253,9 +251,9 @@
     "slug": "url-shortener",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 328,
     "timeDay": 206,
@@ -263,7 +261,6 @@
     "timeMonth": 578,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2026-03-02": 5,
       "2025-11-18": 120,
       "2025-06-05": 951,
       "2025-06-04": 939

@@ -4,11 +4,11 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 478,
     "timeDay": 241,
@@ -16,7 +16,7 @@
     "timeMonth": 281,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2026-04-10": 5,
+      "2026-04-10": 0,
       "2025-11-18": 81,
       "2025-08-23": 6
     }
@@ -27,7 +27,7 @@
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-development",
     "status": "up",
-    "uptime": "96.75%",
+    "uptime": "96.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -155,9 +155,9 @@
     "slug": "statistics",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1717,
     "timeDay": 488,
@@ -165,7 +165,6 @@
     "timeMonth": 692,
     "timeYear": 1959,
     "dailyMinutesDown": {
-      "2026-04-10": 5,
       "2025-11-18": 145,
       "2025-08-23": 6
     }
@@ -254,9 +253,9 @@
     "slug": "url-shortener",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 336,
     "timeDay": 1480,
@@ -264,7 +263,6 @@
     "timeMonth": 370,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2026-04-10": 5,
       "2025-11-18": 120,
       "2025-06-05": 951,
       "2025-06-04": 939

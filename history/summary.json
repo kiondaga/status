@@ -25,9 +25,9 @@
     "url": "https://dev.kiondaga.org/.well-known/ping.html",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-development",
-    "status": "up",
+    "status": "down",
     "uptime": "96.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.07%",
@@ -37,6 +37,7 @@
     "timeMonth": 228,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2026-04-20": 0,
       "2026-02-24": 920,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -154,9 +155,9 @@
     "slug": "statistics",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1720,
     "timeDay": 756,
@@ -164,7 +165,6 @@
     "timeMonth": 667,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2026-04-20": 3,
       "2025-11-18": 145,
       "2025-08-23": 6
     }

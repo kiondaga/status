@@ -4,22 +4,22 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 529,
-    "timeDay": 2012,
-    "timeWeek": 1272,
-    "timeMonth": 1092,
-    "timeYear": 555,
+    "time": 528,
+    "timeDay": 1848,
+    "timeWeek": 1210,
+    "timeMonth": 1070,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2025-08-23": 6,
       "2025-11-18": 81,
       "2026-05-22": 39,
-      "2026-06-04": 5
+      "2026-06-04": 1
     }
   },
   {
@@ -157,22 +157,22 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 1750,
-    "timeDay": 512,
-    "timeWeek": 622,
-    "timeMonth": 1179,
-    "timeYear": 1946,
+    "time": 1749,
+    "timeDay": 465,
+    "timeWeek": 589,
+    "timeMonth": 1154,
+    "timeYear": 1943,
     "dailyMinutesDown": {
       "2025-08-23": 6,
       "2025-11-18": 145,
       "2026-05-22": 34,
-      "2026-06-04": 5
+      "2026-06-04": 0
     }
   },
   {
@@ -257,22 +257,22 @@
     "url": "https://kionda.ga/ping",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.73%",
     "time": 373,
-    "timeDay": 323,
-    "timeWeek": 296,
-    "timeMonth": 736,
+    "timeDay": 295,
+    "timeWeek": 282,
+    "timeMonth": 720,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2025-06-05": 951,
       "2025-11-18": 120,
       "2026-05-22": 33,
-      "2026-06-04": 4
+      "2026-06-04": 0
     }
   }
 ]

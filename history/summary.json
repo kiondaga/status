@@ -4,21 +4,22 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 500,
-    "timeDay": 304,
-    "timeWeek": 236,
-    "timeMonth": 831,
-    "timeYear": 542,
+    "timeDay": 360,
+    "timeWeek": 231,
+    "timeMonth": 820,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2025-08-23": 6,
       "2025-11-18": 81,
-      "2026-05-22": 39
+      "2026-05-22": 39,
+      "2026-06-14": 1
     }
   },
   {
@@ -78,7 +79,7 @@
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "trading-post-production",
     "status": "up",
-    "uptime": "96.27%",
+    "uptime": "96.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -156,21 +157,22 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 1617,
-    "timeDay": 559,
-    "timeWeek": 707,
-    "timeMonth": 965,
-    "timeYear": 1905,
+    "time": 1616,
+    "timeDay": 500,
+    "timeWeek": 683,
+    "timeMonth": 952,
+    "timeYear": 1902,
     "dailyMinutesDown": {
       "2025-08-23": 6,
       "2025-11-18": 145,
-      "2026-05-22": 34
+      "2026-05-22": 34,
+      "2026-06-14": 0
     }
   },
   {
@@ -255,20 +257,21 @@
     "url": "https://kionda.ga/ping",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 372,
-    "timeDay": 312,
-    "timeWeek": 236,
-    "timeMonth": 577,
+    "timeDay": 303,
+    "timeWeek": 231,
+    "timeMonth": 570,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2025-11-18": 120,
-      "2026-05-22": 33
+      "2026-05-22": 33,
+      "2026-06-14": 0
     }
   }
 ]

@@ -4,22 +4,23 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.91%",
     "time": 498,
-    "timeDay": 194,
-    "timeWeek": 334,
-    "timeMonth": 491,
+    "timeDay": 188,
+    "timeWeek": 315,
+    "timeMonth": 487,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2025-08-23": 6,
       "2025-11-18": 81,
       "2026-05-22": 39,
-      "2026-06-18": 351
+      "2026-06-18": 351,
+      "2026-07-03": 1
     }
   },
   {
@@ -79,7 +80,7 @@
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "trading-post-production",
     "status": "up",
-    "uptime": "96.34%",
+    "uptime": "96.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -157,22 +158,23 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.90%",
     "time": 1606,
-    "timeDay": 419,
-    "timeWeek": 574,
-    "timeMonth": 556,
-    "timeYear": 1857,
+    "timeDay": 294,
+    "timeWeek": 523,
+    "timeMonth": 551,
+    "timeYear": 1854,
     "dailyMinutesDown": {
       "2025-08-23": 6,
       "2025-11-18": 145,
       "2026-05-22": 34,
-      "2026-06-18": 341
+      "2026-06-18": 341,
+      "2026-07-03": 1
     }
   },
   {
@@ -257,20 +259,21 @@
     "url": "https://kionda.ga/ping",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 359,
-    "timeDay": 288,
-    "timeWeek": 310,
-    "timeMonth": 273,
-    "timeYear": 393,
+    "timeDay": 179,
+    "timeWeek": 280,
+    "timeMonth": 270,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2025-11-18": 120,
-      "2026-05-22": 33
+      "2026-05-22": 33,
+      "2026-07-03": 0
     }
   }
 ]

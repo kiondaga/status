@@ -4,21 +4,22 @@
     "url": "https://kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "website-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 496,
-    "timeDay": 347,
-    "timeWeek": 322,
-    "timeMonth": 362,
+    "timeDay": 249,
+    "timeWeek": 301,
+    "timeMonth": 356,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2025-11-18": 81,
       "2026-05-22": 39,
-      "2026-06-18": 351
+      "2026-06-18": 351,
+      "2026-11-05": 1
     }
   },
   {
@@ -156,21 +157,22 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1576,
-    "timeDay": 530,
-    "timeWeek": 513,
-    "timeMonth": 566,
-    "timeYear": 1512,
+    "time": 1575,
+    "timeDay": 314,
+    "timeWeek": 461,
+    "timeMonth": 551,
+    "timeYear": 1510,
     "dailyMinutesDown": {
       "2025-11-18": 145,
       "2026-05-22": 34,
-      "2026-06-18": 341
+      "2026-06-18": 341,
+      "2026-11-05": 1
     }
   },
   {
@@ -254,20 +256,21 @@
     "url": "https://kionda.ga/ping",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 380,
-    "timeDay": 357,
-    "timeWeek": 361,
-    "timeMonth": 419,
-    "timeYear": 415,
+    "timeDay": 256,
+    "timeWeek": 335,
+    "timeMonth": 411,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2025-11-18": 120,
-      "2026-05-22": 33
+      "2026-05-22": 33,
+      "2026-11-05": 1
     }
   }
 ]

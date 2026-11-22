@@ -152,21 +152,21 @@
     "url": "https://stats.kiondaga.org",
     "icon": "https://content.kiondaga.org/brand/Trademark/cropped-OA_Trademark-10-180x180.png",
     "slug": "statistics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
-    "time": 1571,
-    "timeDay": 265,
-    "timeWeek": 460,
-    "timeMonth": 488,
-    "timeYear": 1417,
+    "time": 1570,
+    "timeDay": 388,
+    "timeWeek": 479,
+    "timeMonth": 492,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2026-05-22": 34,
       "2026-06-18": 341,
-      "2026-11-22": 0
+      "2026-11-22": 5
     }
   },
   {
